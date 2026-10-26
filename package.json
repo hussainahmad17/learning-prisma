@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node api.js && node server.js",
-    "preinstall": "node dist/setup.js"
+    "dev": "node api.js && node server.js"
   },
   "keywords": [],
   "author": "",
